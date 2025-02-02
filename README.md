@@ -1,2 +1,2 @@
 # Data-analysis-and-visualization
-Data analysis end-to-end projects
+Welcome to my Data Analysis and Visualization repository! This collection showcases projects that leverage Python, SQL, Power BI, and Tableau to analyze real-world datasets and create insightful visualizations.The projects focus on data cleaning, transformation, exploratory data analysis (EDA), and insightful visualizations to drive data-driven decision-making. The repository includes scripts, notebooks, dashboards, and datasets covering different domains. Whether you're exploring trends, building dashboards, or deriving meaningful insights from raw data, this collection demonstrates practical applications of data analytics and business intelligence.
