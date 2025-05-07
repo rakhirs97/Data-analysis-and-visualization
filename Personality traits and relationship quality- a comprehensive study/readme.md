@@ -3,7 +3,7 @@ Research problem: Understanding the relationship between personality traits and 
 Objectives:
 - To examine the association between the Big Five personality traits and relationship quality.
 - To identify which personality traits are most predictive of high relationship satisfaction.
-- To explore how different combinations of personality traits affect relationship quality
+- To explore how different combinations of personality traits affect relationship quality.\
 Detailed Data Analysis:\
 Data Cleaning, Descriptive Statistics, Correlation Analysis, Regression Model
 
